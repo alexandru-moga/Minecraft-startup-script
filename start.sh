@@ -5,7 +5,7 @@ echo "--------------------------------------------------------------------------
 java --version
 echo "-------------------------------------------------------------------------------"
 
-#Warn you that the server will start.
+#Warn you that the server will start
 echo "Starting in five seconds, press Ctrl-C to cancel."
 sleep 1
 echo "Starting in four seconds, press Ctrl-C to cancel."
